@@ -1,0 +1,62 @@
+html {
+background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+h1 {
+color: blue;
+font-size: 24pts;
+text-decoration: line-through;
+text-align: center;
+}
+
+span.red {
+color: red;
+}
+
+span.line-through {
+text-decoration: underline;
+font-weight: bold;
+}
+
+ol {
+  margin: auto;
+  width: 34%;
+}
+
+span.pink {
+color: 	#FF00FF;
+}
+
+h2 {
+color: red;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-weight: bold;
+line-height: 20pt;
+font-size: 15px;
+}
+
+
+h3 {
+color: #00FF00;
+text-align: right; 
+}
+
+h4 {
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+}
+
+div {
+color: 	#00BFFF;
+}
+
+ul.b{
+	color: blue;
+}
+
+a:visited {
+color: 	#32CD32;
+}
+
+
